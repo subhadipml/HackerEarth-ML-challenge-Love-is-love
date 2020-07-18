@@ -4,3 +4,6 @@ https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-
 
 ## Download Sentiment140 dataset with 1.6 million tweets
 https://www.kaggle.com/kazanova/sentiment140/download
+
+## Check this kaggle repository:Sentiment analysis with tweets
+https://www.kaggle.com/kazanova/sentiment140
